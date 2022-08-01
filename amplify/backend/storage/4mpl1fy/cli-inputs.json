@@ -1,0 +1,14 @@
+{
+  "resourceName": "4mpl1fy",
+  "policyUUID": "cc938920",
+  "bucketName": "amp-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
